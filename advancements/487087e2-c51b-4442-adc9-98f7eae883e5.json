@@ -29,15 +29,27 @@
     },
     "done": true
   },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-19 16:16:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-19 16:16:20 +0800"
     },
     "done": false
   },
-  "moredelight:main/root": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "seeds": "2024-12-19 16:16:19 +0800"
+      "in_better_spider_dungeon": "2024-12-19 21:13:13 +0800"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-19 21:13:13 +0800"
     },
     "done": true
   },
