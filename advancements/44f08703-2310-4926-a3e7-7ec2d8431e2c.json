@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:forest": "2024-12-19 20:40:51 +0800",
       "minecraft:river": "2024-12-19 20:53:42 +0800",
+      "minecraft:savanna": "2024-12-19 21:27:16 +0800",
       "minecraft:plains": "2024-12-19 20:53:57 +0800"
     },
     "done": false
@@ -1126,7 +1127,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "old_growth_woodland": "2024-12-19 21:00:01 +0800"
+      "old_growth_woodland": "2024-12-19 21:00:01 +0800",
+      "scrubland": "2024-12-19 21:37:37 +0800"
     },
     "done": false
   },
@@ -1325,6 +1327,132 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-19 21:13:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-19 21:29:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-19 21:31:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-19 21:29:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "emeraldequipment:recipes/misc/emerald": {
+    "criteria": {
+      "has_ingredient": "2024-12-19 21:30:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-19 21:30:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-19 21:33:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 21:33:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 21:33:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-19 21:33:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-19 21:29:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-19 21:35:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-19 21:33:16 +0800"
     },
     "done": true
   },
